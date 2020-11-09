@@ -33,3 +33,11 @@ ini barisan code
 x=0
 y=x
 ```
+
+
+ini tabel
+
+Nama|Usia
+----|----
+Andi|23
+Budi|24

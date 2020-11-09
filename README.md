@@ -20,5 +20,16 @@ _ini **kombinasi** guys_
 2. ini list nomor 2
 
 
-[ini link google](https://www.google.co.id/)
-![ini gambar kucing](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Collage_of_Six_Cats-01.jpg/905px-Collage_of_Six_Cats-01.jpg)
+[ini link google](https://www.google.co.id/)  
+![ini gambar kucing](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Collage_of_Six_Cats-01.jpg/905px-Collage_of_Six_Cats-01.jpg)  
+
+>ini quotes  
+
+ini code `import math`
+
+ini barisan code
+
+```
+x=0
+y=x
+```

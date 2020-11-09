@@ -11,9 +11,9 @@ _ini juga italic_
 __ini juga bold__  
 _ini **kombinasi** guys_  
 
-- ini bullet list 1
-- ini bullet list 2
-  - ini sublist 2
+* ini bullet list 1
+* ini bullet list 2
+  * ini sublist 2
 
 
 1. ini list nomor 1
